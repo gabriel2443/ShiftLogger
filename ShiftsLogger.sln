@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShiftsLogger", "..\ShiftLogger\ShiftsLoggerAPI\ShiftsLogger\ShiftsLogger.csproj", "{EAA6C7CD-9623-47BA-8B8B-2D67A65EA16C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShiftsLoggerUI", "ShiftsLoggerUI\ShiftsLoggerUI.csproj", "{9495D5BA-956B-4E09-BE05-2C0074A0D2CB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShiftLoggerUI", "..\ShiftLogger\ShiftLoggerUI\ShiftLoggerUI\ShiftLoggerUI.csproj", "{D1CFFD7F-7E52-4C12-8C8D-32C2ED977F18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShiftLoggerAPI", "ShiftLoggerAPI\ShiftLoggerAPI.csproj", "{BFC3F7F6-0993-44CB-BF63-537E18B38D20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +13,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EAA6C7CD-9623-47BA-8B8B-2D67A65EA16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EAA6C7CD-9623-47BA-8B8B-2D67A65EA16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EAA6C7CD-9623-47BA-8B8B-2D67A65EA16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EAA6C7CD-9623-47BA-8B8B-2D67A65EA16C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D1CFFD7F-7E52-4C12-8C8D-32C2ED977F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D1CFFD7F-7E52-4C12-8C8D-32C2ED977F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D1CFFD7F-7E52-4C12-8C8D-32C2ED977F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D1CFFD7F-7E52-4C12-8C8D-32C2ED977F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9495D5BA-956B-4E09-BE05-2C0074A0D2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9495D5BA-956B-4E09-BE05-2C0074A0D2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9495D5BA-956B-4E09-BE05-2C0074A0D2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9495D5BA-956B-4E09-BE05-2C0074A0D2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC3F7F6-0993-44CB-BF63-537E18B38D20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC3F7F6-0993-44CB-BF63-537E18B38D20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC3F7F6-0993-44CB-BF63-537E18B38D20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC3F7F6-0993-44CB-BF63-537E18B38D20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2C760F92-B297-4BD1-99FE-43C66759A4BF}
+		SolutionGuid = {4D5859E3-AADB-40F8-AAC6-4DBB5ECC19AC}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\bin\Debug\net8.0\ShiftsLoggerUI.exe
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\bin\Debug\net8.0\ShiftsLoggerUI.deps.json
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\bin\Debug\net8.0\ShiftsLoggerUI.runtimeconfig.json
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\bin\Debug\net8.0\ShiftsLoggerUI.dll
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\bin\Debug\net8.0\ShiftsLoggerUI.pdb
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\obj\Debug\net8.0\ShiftsLoggerUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\obj\Debug\net8.0\ShiftsLoggerUI.AssemblyInfoInputs.cache
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\obj\Debug\net8.0\ShiftsLoggerUI.AssemblyInfo.cs
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\obj\Debug\net8.0\ShiftsLoggerUI.csproj.CoreCompileInputs.cache
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\obj\Debug\net8.0\ShiftsLoggerUI.dll
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\obj\Debug\net8.0\refint\ShiftsLoggerUI.dll
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\obj\Debug\net8.0\ShiftsLoggerUI.pdb
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\obj\Debug\net8.0\ShiftsLoggerUI.genruntimeconfig.cache
+C:\Users\anluko\Desktop\CSHARP PROJECTS\ShiftsLogger\ShiftsLoggerUI\obj\Debug\net8.0\ref\ShiftsLoggerUI.dll
